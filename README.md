@@ -6,3 +6,6 @@ if using macbook Mojave OS, try: pyinstaller --onefile --icon=<icon name .ico> -
 ALso: you need to register on https://openweathermap.org and get the activation key to access API. 
 
 Simple GUI Application. 
+
+
+This is the look for the WeatherApp
