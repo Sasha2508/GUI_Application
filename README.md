@@ -11,3 +11,8 @@ Simple GUI Application.
 This is the look for the WeatherApp
 ![image]
 (https://user-images.githubusercontent.com/71674667/107434982-29730b00-6af1-11eb-84c7-3ade81cb6f34.png)
+
+and this one: 
+![image]
+(https://user-images.githubusercontent.com/71674667/107435144-60e1b780-6af1-11eb-8317-1bdd9234445f.png)
+
